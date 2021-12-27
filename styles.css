@@ -1,0 +1,29 @@
+
+body {
+    background-color: aquamarine;
+    
+    
+}
+
+.content {
+    align-content: center;
+    max-width: 500px;
+    margin: auto;
+}
+
+.headline {
+    font-family: FinkHeavy, 'Luxurious Roman', Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.dog-name {
+    font-family: FinkHeavy, 'Luxurious Roman', Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.dog-image {
+    height: 200px;
+    width: auto;
+}
+
+.dog-quote {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
